@@ -5,7 +5,7 @@
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/DashaJ/vulnerability-management-program)**
-- **[Programmatic Vulnerability DISA/STIG Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability DISA/STIG Remediations (PowerShell and BASH)](https://github.com/Darya-cybersec/DISA-STIG-implementations-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 

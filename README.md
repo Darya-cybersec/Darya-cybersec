@@ -21,6 +21,16 @@
   </a>
 </p>
 
+## 🛠️ Tools & Skills Practiced
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
+</p>
+
+**Nessus | Microsoft Sentinel | KQL | NIST Framework | Linux | Windows | MITRE ATT&CK**
+
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

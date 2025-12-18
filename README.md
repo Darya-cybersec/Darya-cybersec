@@ -11,7 +11,7 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darya-cybersec/threat-hunting-scenario-tor)**
 
-## 🧰 Tools
+## 🛠️ Tools
 
 <hr/>
 

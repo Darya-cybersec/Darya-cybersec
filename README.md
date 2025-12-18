@@ -34,6 +34,8 @@
 - Test planning, execution, defect tracking, and regression testing
 - Strong understanding of SDLC and risk-based testing
 
+**[Automated Testing Selenium/Java](https://github.com/Darya-cybersec/automated-testing-selenium)** 
+
 ---
 
 ## 🛠️ Tools, Technologies & Frameworks

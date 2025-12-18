@@ -11,9 +11,6 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darya-cybersec/threat-hunting-scenario-tor)**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darya-cybersec&repo=github-readme-stats)](https://github.com/darya-cybersec/github-readme-stats)
-
-
 <hr/>
 
 ## 🤳 Connect With Me

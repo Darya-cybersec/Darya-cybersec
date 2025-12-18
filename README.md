@@ -72,6 +72,6 @@
 
 📫 Let’s connect and talk cybersecurity, GRC, and breaking into the field.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn?logo=linkedin)](https://linkedin.com/in/darya-cybersec/)
+[![LinkedIn](https://img.shields.io/badge/LinkedInlogo=linkedin)](https://linkedin.com/in/darya-cybersec/)
 
 

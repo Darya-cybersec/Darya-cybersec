@@ -11,11 +11,13 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darya-cybersec/threat-hunting-scenario-tor)**
 
+## 🧰 Tools
+
 <hr/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,bitbucket,java,maven,postman,git,selenium" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,bitbucket,java,postman,git,selenium,maven," />
   </a>
 </p>
 

@@ -1,12 +1,5 @@
 
-## 🤳 Connect With Me
-
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/darya-cybersec/
-
-
-# 🔐 Darya Murha — IT & Cybersecurity Project Portfolio
+## 🔐 Darya Murha — IT & Cybersecurity Project Portfolio
 
 👋 Welcome! This repository showcases hands-on cybersecurity, vulnerability management, and security operations projects completed through labs, simulations, and real-world tooling.  
 
@@ -70,11 +63,7 @@
 
 ## 🤝 Connect With Me
 
-📫 Let’s connect and talk cybersecurity, GRC, and breaking into the field.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedInlogo=linkedin)](https://linkedin.com/in/darya-cybersec/)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?logo=linkedin)](https://linkedin.com/in/darya-cybersec/)
+📫 Let’s connect and talk cybersecurity!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/darya-cybersec/)
 

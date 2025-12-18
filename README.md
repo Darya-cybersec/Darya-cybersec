@@ -12,7 +12,7 @@
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darya-cybersec/threat-hunting-scenario-tor)**
 
 ## 🧰 Tools
-TENABLE
+
 <hr/>
 
 <p align="center">

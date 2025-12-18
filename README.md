@@ -33,8 +33,7 @@
 - Automated testing using **Selenium** and **Java**
 - Test planning, execution, defect tracking, and regression testing
 - Strong understanding of SDLC and risk-based testing
-
-**[Automated Testing Selenium/Java](https://github.com/Darya-cybersec/automated-testing-selenium)** 
+- **[Automated Testing Selenium/Java](https://github.com/Darya-cybersec/automated-testing-selenium)** 
 
 ---
 

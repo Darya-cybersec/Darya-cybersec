@@ -13,10 +13,15 @@
 
 <hr/>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,selenium,sentinel,tenable,vim" />
+  </a>
+</p>
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 [linkedin]: https://linkedin.com/in/darya-cybersec/
 

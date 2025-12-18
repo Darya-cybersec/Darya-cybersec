@@ -19,3 +19,6 @@
 
 
 [linkedin]: https://linkedin.com/in/darya-cybersec/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darya-cybersec)](https://github.com/darya-cybersec/github-readme-stats)
+

@@ -74,4 +74,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedInlogo=linkedin)](https://linkedin.com/in/darya-cybersec/)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?logo=linkedin)](https://linkedin.com/in/darya-cybersec/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/darya-cybersec/)
 

@@ -11,17 +11,14 @@
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Darya-cybersec/threat-hunting-scenario-tor)**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=darya-cybersec&repo=github-readme-stats)](https://github.com/darya-cybersec/github-readme-stats)
+
+
 <hr/>
 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darya-cybersec)](https://github.com/darya-cybersec/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darya-cybersec&show_icons=true)
-
 
 
 [linkedin]: https://linkedin.com/in/darya-cybersec/

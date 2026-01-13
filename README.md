@@ -23,7 +23,9 @@
 
 - 🔎 **[Threat Hunting Scenario: TOR Browser Usage](https://github.com/Darya-cybersec/threat-hunting-scenario-tor)**  
   Investigated suspicious TOR activity using Microsoft Sentinel, log analysis, and MITRE ATT&CK mapping.
-
+- 🔎 **[Threat Hunting Scenario: SOC Incident Investigation – Azuki Import/Export](https://github.com/Darya-cybersec/CTF-Azuki-Import-Export-Investigation/blob/main/README.md)**  
+  This report documents a full ransomware intrusion lifecycle against Azuki Import/Export using Microsoft Sentinel, Log Analytics Workspace (LAW), and MITRE ATT&CK mapping.
+  
 ---
 
 ## 🧪 Automated Testing & QA Background
